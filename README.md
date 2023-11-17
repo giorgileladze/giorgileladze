@@ -1,4 +1,4 @@
-<img src="https://github.com/giorgileladze/giorgileladze/blob/main/images/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png?raw=true" />
+<img src="https://github.com/giorgileladze/giorgileladze/blob/main/images/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Giorgi Leladze</h1>
 <h3 align="center">A passionate Web Developer from Georgia</h3>
