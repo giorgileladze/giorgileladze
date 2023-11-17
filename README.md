@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **JS, React, TS and php**
+- 💬 Ask me about: **JS, React, TS and php**
 
-- 📫 How to reach me **giorgileladze78@gmail.com**
+- 📫 How to reach me: **giorgileladze78@gmail.com**
 
-- 📄 Know about my experiences [#link](#link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1pxIxKfPXClHBPcGv7_eGzByWk9hQr5j7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
