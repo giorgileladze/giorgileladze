@@ -139,7 +139,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats-six-beta-42.vercel.app/api/top-langs?username=giorgileladze&show_icons=true&locale=en&layout=compact&theme=radical" alt="giorgileladze" /></p>
+<p><img align="left" src="https://github-readme-stats-six-beta-42.vercel.app/api/top-langs?username=giorgileladze&disable_animations=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="giorgileladze" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-six-beta-42.vercel.app/api?username=giorgileladze&disable_animations=true&show_icons=true&locale=en&theme=radical&count_private=true&include_all_commits=true" alt="giorgileladze" /></p>
 
