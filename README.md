@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giorgi Leladze</h1>
 <h3 align="center">A passionate Web Developer from Georgia</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw11hiY4G44b6qIjQ91br5y1&ust=1700301264008000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCZ7fjhyoIDFQAAAAAdAAAAABAP")
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw11hiY4G44b6qIjQ91br5y1&ust=1700301264008000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCZ7fjhyoIDFQAAAAAdAAAAABAP">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgileladze&label=Profile%20views&color=0e75b6&style=flat" alt="giorgileladze" /> </p>
 
