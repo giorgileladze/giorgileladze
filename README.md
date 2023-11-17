@@ -141,6 +141,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgileladze&show_icons=true&locale=en&layout=compact&theme=radical" alt="giorgileladze" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgileladze&show_icons=true&locale=en&theme=radical" alt="giorgileladze" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgileladze&show_icons=true&locale=en&theme=radical&count_private=true&include_all_commits=true" alt="giorgileladze" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giorgileladze&theme=radical" alt="giorgileladze" /></p>
