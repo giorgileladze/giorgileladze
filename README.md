@@ -1,7 +1,6 @@
-![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
-
 <h1 align="center">Hi 👋, I'm Giorgi Leladze</h1>
 <h3 align="center">A passionate Web Developer from Georgia</h3>
+(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw11hiY4G44b6qIjQ91br5y1&ust=1700301264008000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCZ7fjhyoIDFQAAAAAdAAAAABAP")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgileladze&label=Profile%20views&color=0e75b6&style=flat" alt="giorgileladze" /> </p>
 
