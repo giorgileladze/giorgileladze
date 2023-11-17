@@ -143,4 +143,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-six-beta-42.vercel.app/api?username=giorgileladze&show_icons=true&locale=en&theme=radical&count_private=true&include_all_commits=true" alt="giorgileladze" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giorgileladze&theme=radical" alt="giorgileladze" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=giorgileladze&theme=radical&card_width=380&hide_total_contributions=true" alt="giorgileladze" /></p>
