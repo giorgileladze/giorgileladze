@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **giorgileladze78@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1pxIxKfPXClHBPcGv7_eGzByWk9hQr5j7/view?usp=sharing)
+- 📄 Know about my experience: [Resume](https://drive.google.com/file/d/1pxIxKfPXClHBPcGv7_eGzByWk9hQr5j7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
